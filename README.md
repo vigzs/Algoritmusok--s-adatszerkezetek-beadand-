@@ -3,7 +3,7 @@
 ## Vigh-Mácsai Zsanett (JI69NV)
 
 ## 1. feladat: Keresés, rendezés (CSES)
-** Különleges számok ** - feladat leírása
+**Különleges számok** - feladat leírása
 Kapsz egy listát n egész számokat, és az Ön feladata, hogy kiszámítsa a listában szereplő különböző értékek számát.
 Bemenet
         Az első beviteli sor egy egész számot tartalmaz n: az értékek száma.
