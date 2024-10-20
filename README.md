@@ -2,7 +2,7 @@
 
 ## Vigh-Mácsai Zsanett
 
-# 1. feladat: Keresés, rendezés (CSES)
+1. feladat: Keresés, rendezés (CSES)
         Különleges számok - feladat leírása
         Kapsz egy listát n egész számokat, és az Ön feladata, hogy kiszámítsa a listában szereplő különböző értékek számát.
         Bemenet
@@ -31,14 +31,14 @@
 
 
 
-# 2. feladat: Rekurzióval megoldható feladatok
+2. feladat: Rekurzióval megoldható feladatok
 sdfgfdgshdfgh
 
 
-# 3. feladat: Dinamikus programozási feladat
+3. feladat: Dinamikus programozási feladat
 
 
-# 4. feladat: Fák, Gráfok 
+4. feladat: Fák, Gráfok 
 
 (Nemes Tihamér Nemzetközi Informatikai Tanulmányi Verseny, 2018, 2. korcsoport, 2. forduló)
 
@@ -54,7 +54,7 @@ sdfgfdgshdfgh
 
 
 
-# 5. Kollokvium feladatok 
+5. Kollokvium feladatok 
 (OKTV, Nemes Tihamér Nemzetközi Informatikai Tanulmányi Verseny)
 
     A sárkány feladványa (leírás:[https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-beadand-/blob/main/a_sarkany_feladata]) 
