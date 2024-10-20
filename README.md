@@ -36,7 +36,8 @@ sdfgfdgshdfgh
 3. feladat: Dinamikus programozási feladat
 
 
-4. feladat: Fák, Gráfok
+4. feladat: Fák, Gráfok (Nemes Tihamér Nemzetközi Programozási Verseny, 2018, 2. korcsoport, 2. forduló)
+
 
 
 
