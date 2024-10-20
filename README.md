@@ -2,7 +2,7 @@
 
 ## Vigh-Mácsai Zsanett
 
-1. feladat: Keresés, rendezés (CSES)
+# 1. feladat: Keresés, rendezés (CSES)
         Különleges számok - feladat leírása
         Kapsz egy listát n egész számokat, és az Ön feladata, hogy kiszámítsa a listában szereplő különböző értékek számát.
         Bemenet
@@ -13,7 +13,7 @@
 
         Korlátozások
 
-        1 <= n <= 2 * 10^5
+         1 <= n <= 2 * 10^5
 
          1 <=  x_i <= 10^9
 
@@ -31,14 +31,16 @@
 
 
 
-2. feladat: Rekurzióval megoldható feladatok
+# 2. feladat: Rekurzióval megoldható feladatok
 sdfgfdgshdfgh
 
 
-3. feladat: Dinamikus programozási feladat
+# 3. feladat: Dinamikus programozási feladat
 
 
-4. feladat: Fák, Gráfok (Nemes Tihamér Nemzetközi Informatikai Tanulmányi Verseny, 2018, 2. korcsoport, 2. forduló)
+# 4. feladat: Fák, Gráfok 
+
+(Nemes Tihamér Nemzetközi Informatikai Tanulmányi Verseny, 2018, 2. korcsoport, 2. forduló)
 
     Családfa (leírás [https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-beadand-/blob/main/nt18-2f2.doc])
 
