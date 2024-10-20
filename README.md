@@ -9,7 +9,8 @@ Bemenet
         Az első beviteli sor egy egész számot tartalmaz n: az értékek száma.
         A második sorban van n egész szám: x_1, x_2,...,x_n.
         Kimenet
-        Egy egész szám nyomtatása: a különböző értékek száma. Korlátozások
+        Egy egész szám nyomtatása: a különböző értékek száma. 
+Korlátozások
 1 <= n <= 2 * 10^5
 1 <=  x_i <= 10^9
 Példa
@@ -34,7 +35,7 @@ sdfgfdgshdfgh
 
 (Nemes Tihamér Nemzetközi Informatikai Tanulmányi Verseny, 2018, 2. korcsoport, 2. forduló)
 
-    Családfa (leírás [https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-beadand-/blob/main/nt18-2f2.doc])
+Családfa (leírás [https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-beadand-/blob/main/nt18-2f2.doc])
 Egy királyi családban ismerjük az apai ágú leszármazottakat. A család tagjai egyetlen közös őstől származnak. Az ős gyerekei tőle 1 távolságra vannak, az unokái 2-re, a dédunokái 3-ra, és így tovább. Az 1-es sorszámú tag a közös ős.Készíts programot, amely megadja a legtávolabbi leszármazottakat!
 Bemenet
 A standard bemenet első sorában a királyi család tagjai száma (1≤N≤100000) szerepel. A következő N-1 sorban sorra a 2-es, 3-as, … sorszámú családtag apjának sorszáma található (1≤Apai≤N).
