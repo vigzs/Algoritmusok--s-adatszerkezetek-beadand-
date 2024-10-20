@@ -27,6 +27,8 @@
              Kimenet:
              2
 
+    Eredmények: [https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-beadand-/blob/main/CSES%20%E2%80%93%20K%C3%BCl%C3%B6nb%C3%B6z%C5%91%20sz%C3%A1mok%20%E2%80%93%20Eredm%C3%A9nyek.html]
+
 
 
 2. feladat: Rekurzióval megoldható feladatok
