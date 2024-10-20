@@ -8,6 +8,7 @@ Kapsz egy listát n egész számokat, és az Ön feladata, hogy kiszámítsa a l
 Bemenet
 Az első beviteli sor egy egész számot tartalmaz n: az értékek száma.
 A második sorban van n egész szám: x_1, x_2,...,x_n.
+
 Kimenet
 Egy egész szám nyomtatása: a különböző értékek száma.
 Korlátozások
@@ -18,6 +19,7 @@ Korlátozások
 Példa
 Bemenet:
 5
+
 2 3 2 2 3
 
 Kimenet:
