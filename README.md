@@ -28,7 +28,10 @@ Eredmények: [https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-beadand-/
 
 
 
-## 3. feladat: Dinamikus programozási feladat
+## 3. feladat: Dinamikus programozási feladat (CSES)
+**Kocka kombinációk**
+Feladat leírása []
+Eredmények []
 
 
 ## 4. feladat: Fák, Gráfok 
