@@ -38,7 +38,7 @@ sdfgfdgshdfgh
 
 4. feladat: Fák, Gráfok (Nemes Tihamér Nemzetközi Informatikai Tanulmányi Verseny, 2018, 2. korcsoport, 2. forduló)
 
-    Családfa (leírás)
+    Családfa (leírás [https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-beadand-/blob/main/nt18-2f2.doc])
 
     Egy királyi családban ismerjük az apai ágú leszármazottakat. A család tagjai egyetlen közös őstől származnak. Az ős gyerekei tőle 1 távolságra vannak, az unokái 2-re, a dédunokái 3-ra, és így tovább. Az 1-es sorszámú tag a közös ős.
     Készíts programot, amely megadja a legtávolabbi leszármazottakat!
@@ -46,6 +46,7 @@ sdfgfdgshdfgh
     A standard bemenet első sorában a királyi család tagjai száma (1≤N≤100000) szerepel. A következő N-1 sorban sorra a 2-es, 3-as, … sorszámú családtag apjának sorszáma található (1≤Apai≤N).
     Kimenet
     A standard kimenet első sorába a legtávolabbi leszármazottak K számát és a közös őstől számított távolságukat kell írni! A második sorba a K legtávolabbi leszármazott sorszáma kerüljön, sorszám szerint növekvő sorrendben!
+    input: [https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-beadand-/blob/main/input_nt1718_2_2_1.txt]
 
 
 
