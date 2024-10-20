@@ -35,7 +35,7 @@ Eredmények: [https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-beadand-/
 
 (Nemes Tihamér Nemzetközi Informatikai Tanulmányi Verseny, 2018, 2. korcsoport, 2. forduló)
 
-Családfa (leírás [https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-beadand-/blob/main/nt18-2f2.doc])
+**Családfa** (leírás [https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-beadand-/blob/main/nt18-2f2.doc])
 Egy királyi családban ismerjük az apai ágú leszármazottakat. A család tagjai egyetlen közös őstől származnak. Az ős gyerekei tőle 1 távolságra vannak, az unokái 2-re, a dédunokái 3-ra, és így tovább. Az 1-es sorszámú tag a közös ős.Készíts programot, amely megadja a legtávolabbi leszármazottakat!
 Bemenet
 A standard bemenet első sorában a királyi család tagjai száma (1≤N≤100000) szerepel. A következő N-1 sorban sorra a 2-es, 3-as, … sorszámú családtag apjának sorszáma található (1≤Apai≤N).
@@ -48,7 +48,7 @@ input: [https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-beadand-/blob/m
 ## 5. Kollokvium feladatok 
 (OKTV, Nemes Tihamér Nemzetközi Informatikai Tanulmányi Verseny)
 
-1. A sárkány feladványa (leírás:[https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-beadand-/blob/main/a_sarkany_feladata]) 
+1. **A sárkány feladványa** (leírás:[https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-beadand-/blob/main/a_sarkany_feladata]) 
     
 (Nemes Tihamér Nemzetközi Informatikai Tanulmányi Verseny, 2020. 2-3. korcsoport, 3. forduló)
  A kincses barlang bejárata előtt egy sárkánnyal találod szemben magad. A sárkány a következő
@@ -70,7 +70,7 @@ megadható. input:[https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-bead
 
 
 2. Informatika OKTV 2017 - Problémamegoldó szemináriumon, október 18-án előadott feladat 
-Számok előállítása 
+**Számok előállítása** 
 leírás: [https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-beadand-/blob/main/szamok_eloallitasa.pdf]
 
 
