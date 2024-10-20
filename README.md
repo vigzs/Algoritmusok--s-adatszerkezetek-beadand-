@@ -54,7 +54,8 @@ sdfgfdgshdfgh
 
 
 
-5. Kollokvium feladatok (OKTV, Nemes Tihamér Nemzetközi Informatikai Tanulmányi Verseny)
+# 5. Kollokvium feladatok 
+(OKTV, Nemes Tihamér Nemzetközi Informatikai Tanulmányi Verseny)
 
     A sárkány feladványa (leírás:[https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-beadand-/blob/main/a_sarkany_feladata]) 
     
