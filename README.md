@@ -1,6 +1,6 @@
 # Algoritmusok és adatszerkezetek beadandó feladatok
 
-## Vigh-Mácsai Zsanett
+## Vigh-Mácsai Zsanett (JI69NV)
 
 ## 1. feladat: Keresés, rendezés (CSES)
 Különleges számok - feladat leírása
