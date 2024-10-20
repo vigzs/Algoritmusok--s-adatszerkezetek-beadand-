@@ -2,7 +2,7 @@
 
 ## Vigh-Mácsai Zsanett
 
-1. feladat: Keresés, rendezés (CSES)
+## 1. feladat: Keresés, rendezés (CSES)
 Különleges számok - feladat leírása
 Kapsz egy listát n egész számokat, és az Ön feladata, hogy kiszámítsa a listában szereplő különböző értékek számát.
 Bemenet
@@ -24,11 +24,11 @@ Eredmények: [https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-beadand-/
 
 
 
-2. feladat: Rekurzióval megoldható feladatok
-sdfgfdgshdfgh
+## 2. feladat: Rekurzióval megoldható feladatok
 
 
-3. feladat: Dinamikus programozási feladat
+
+## 3. feladat: Dinamikus programozási feladat
 
 
 ## 4. feladat: Fák, Gráfok 
