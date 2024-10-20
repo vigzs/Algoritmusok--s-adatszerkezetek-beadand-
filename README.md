@@ -51,7 +51,7 @@ sdfgfdgshdfgh
 
 5. Kollokvium feladatok (OKTV, Nemes Tihamér Nemzetközi Informatikai Tanulmányi Verseny)
 
-    A sárkány feladványa (leírás) 
+    A sárkány feladványa (leírás:[https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-beadand-/blob/main/a_sarkany_feladata]) 
     
     (Nemes Tihamér Nemzetközi Informatikai Tanulmányi Verseny, 2020. 2-3. korcsoport, 3. forduló)
 
