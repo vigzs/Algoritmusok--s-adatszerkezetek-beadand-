@@ -69,7 +69,7 @@ Ha nincs megoldás, akkor arra a feladványra -1-et kell kiírni! Több megoldá
 megadható. input:[https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-beadand-/blob/main/input_nt1920_3ford_2kat_6fel]
 
 
-2. Informatika OKTV 2017
+2. Informatika OKTV 2017 - Problémamegoldó szemináriumon, október 18-án előadott feladat 
 Számok előállítása 
 leírás: [https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-beadand-/blob/main/szamok_eloallitasa.pdf]
 
