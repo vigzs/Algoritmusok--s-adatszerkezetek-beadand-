@@ -3,7 +3,9 @@
 ## Vigh-Mácsai Zsanett (JI69NV)
 
 ## 1. feladat: Keresés, rendezés (CSES)
-**Különleges számok** - feladat leírása
+**Különleges számok** 
+
+A feladat leírása
 Kapsz egy listát n egész számokat, és az Ön feladata, hogy kiszámítsa a listában szereplő különböző értékek számát.
 Bemenet
         Az első beviteli sor egy egész számot tartalmaz n: az értékek száma.
@@ -26,11 +28,13 @@ Eredmények: [https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-beadand-/
 
 ## 2. feladat: Rekurzióval megoldható feladatok (SPOJ)
 **CODEM4 - Probléma4**
+
 A feladat leírása: [https://www.spoj.com/problems/CODEM4/cstart=20]
 
 
 ## 3. feladat: Dinamikus programozási feladat (CSES)
 **Kocka kombinációk**
+
 Feladat leírása [https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-beadand-/blob/main/CSES%20%E2%80%93%20Kockakombin%C3%A1ci%C3%B3k.html]
 
 Eredmények [https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-beadand-/blob/main/CSES%20%E2%80%93%20Kockakombin%C3%A1ci%C3%B3k%20%E2%80%93%20Eredm%C3%A9nyek.html]
@@ -40,7 +44,9 @@ Eredmények [https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-beadand-/b
 
 (Nemes Tihamér Nemzetközi Informatikai Tanulmányi Verseny, 2018, 2. korcsoport, 2. forduló)
 
-**Családfa** (leírás [https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-beadand-/blob/main/nt18-2f2.doc])
+**Családfa** 
+
+(leírás [https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-beadand-/blob/main/nt18-2f2.doc])
 Egy királyi családban ismerjük az apai ágú leszármazottakat. A család tagjai egyetlen közös őstől származnak. Az ős gyerekei tőle 1 távolságra vannak, az unokái 2-re, a dédunokái 3-ra, és így tovább. Az 1-es sorszámú tag a közös ős.Készíts programot, amely megadja a legtávolabbi leszármazottakat!
 Bemenet
 A standard bemenet első sorában a királyi család tagjai száma (1≤N≤100000) szerepel. A következő N-1 sorban sorra a 2-es, 3-as, … sorszámú családtag apjának sorszáma található (1≤Apai≤N).
@@ -75,7 +81,9 @@ megadható. input:[https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-bead
 
 
 2. Informatika OKTV 2017 - Problémamegoldó szemináriumon, október 18-án előadott feladat 
+
 **Számok előállítása** 
+
 leírás: [https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-beadand-/blob/main/szamok_eloallitasa.pdf]
 
 
