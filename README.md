@@ -24,8 +24,9 @@ Eredmények: [https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-beadand-/
 
 
 
-## 2. feladat: Rekurzióval megoldható feladatok
-
+## 2. feladat: Rekurzióval megoldható feladatok (SPOJ)
+**CODEM4 - Probléma4**
+A feladat leírása: [https://www.spoj.com/problems/CODEM4/cstart=20]
 
 
 ## 3. feladat: Dinamikus programozási feladat (CSES)
