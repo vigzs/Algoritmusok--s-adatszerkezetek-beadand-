@@ -31,7 +31,7 @@ sdfgfdgshdfgh
 3. feladat: Dinamikus programozási feladat
 
 
-4. feladat: Fák, Gráfok 
+## 4. feladat: Fák, Gráfok 
 
 (Nemes Tihamér Nemzetközi Informatikai Tanulmányi Verseny, 2018, 2. korcsoport, 2. forduló)
 
@@ -45,10 +45,10 @@ input: [https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-beadand-/blob/m
 
 
 
-# 5. Kollokvium feladatok 
+## 5. Kollokvium feladatok 
 (OKTV, Nemes Tihamér Nemzetközi Informatikai Tanulmányi Verseny)
 
-A sárkány feladványa (leírás:[https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-beadand-/blob/main/a_sarkany_feladata]) 
+1. A sárkány feladványa (leírás:[https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-beadand-/blob/main/a_sarkany_feladata]) 
     
 (Nemes Tihamér Nemzetközi Informatikai Tanulmányi Verseny, 2020. 2-3. korcsoport, 3. forduló)
  A kincses barlang bejárata előtt egy sárkánnyal találod szemben magad. A sárkány a következő
@@ -69,7 +69,7 @@ Ha nincs megoldás, akkor arra a feladványra -1-et kell kiírni! Több megoldá
 megadható. input:[https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-beadand-/blob/main/input_nt1920_3ford_2kat_6fel]
 
 
-6. Informatika OKTV 2017
+2. Informatika OKTV 2017
 Számok előállítása 
 leírás: [https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-beadand-/blob/main/szamok_eloallitasa.pdf]
 
