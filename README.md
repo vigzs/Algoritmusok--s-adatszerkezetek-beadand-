@@ -75,6 +75,6 @@ megadható. input:[https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-bead
 
 
 Informatika OKTV 2017
-Számok előállítása leírás []
+Számok előállítása leírás [https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-beadand-/blob/main/szamok_eloallitasa.pdf]
 
 
