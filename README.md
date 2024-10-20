@@ -67,4 +67,3 @@ sdfgfdgshdfgh
     Ha nincs megoldás, akkor arra a feladványra -1-et kell kiírni! Több megoldás esetén bármelyik
     megadható.
 
-    
