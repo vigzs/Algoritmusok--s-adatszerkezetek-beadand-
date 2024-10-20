@@ -11,29 +11,33 @@
         Kimenet
         Egy egész szám nyomtatása: a különböző értékek száma.
 
-Korlátozások
+                Korlátozások
 
-1 <= n <= 2 * 10^5
+                1 <= n <= 2 * 10^5
 
-1 <=  x_i <= 10^9
+                1 <=  x_i <= 10^9
 
-Példa
+                Példa
 
-Bemenet:
-5
+                Bemenet:
+                5
 
-2 3 2 2 3
+                2 3 2 2 3
 
-Kimenet:
-2
+                Kimenet:
+                2
+
 
 
 2. feladat: Rekurzióval megoldható feladatok
 sdfgfdgshdfgh
 
+
 3. feladat: Dinamikus programozási feladat
 
+
 4. feladat: Fák, Gráfok
+
 
 
 5. Kollokvium feladat (OKTV)
