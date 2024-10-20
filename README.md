@@ -45,7 +45,7 @@ input: [https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-beadand-/blob/m
 
 
 
-5. Kollokvium feladatok 
+# 5. Kollokvium feladatok 
 (OKTV, Nemes Tihamér Nemzetközi Informatikai Tanulmányi Verseny)
 
 A sárkány feladványa (leírás:[https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-beadand-/blob/main/a_sarkany_feladata]) 
@@ -69,7 +69,7 @@ Ha nincs megoldás, akkor arra a feladványra -1-et kell kiírni! Több megoldá
 megadható. input:[https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-beadand-/blob/main/input_nt1920_3ford_2kat_6fel]
 
 
-Informatika OKTV 2017
+6. Informatika OKTV 2017
 Számok előállítása 
 leírás: [https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-beadand-/blob/main/szamok_eloallitasa.pdf]
 
