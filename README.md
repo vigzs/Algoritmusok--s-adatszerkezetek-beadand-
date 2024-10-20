@@ -37,7 +37,9 @@ sdfgfdgshdfgh
 
 
 4. feladat: Fák, Gráfok (Nemes Tihamér Nemzetközi Informatikai Tanulmányi Verseny, 2018, 2. korcsoport, 2. forduló)
+
     Családfa (leírás)
+
     Egy királyi családban ismerjük az apai ágú leszármazottakat. A család tagjai egyetlen közös őstől származnak. Az ős gyerekei tőle 1 távolságra vannak, az unokái 2-re, a dédunokái 3-ra, és így tovább. Az 1-es sorszámú tag a közös ős.
     Készíts programot, amely megadja a legtávolabbi leszármazottakat!
     Bemenet
@@ -47,9 +49,12 @@ sdfgfdgshdfgh
 
 
 
-5. Kollokvium feladat (OKTV, Nemes Tihamér Nemzetközi Informatikai Tanulmányi Verseny)
+5. Kollokvium feladatok (OKTV, Nemes Tihamér Nemzetközi Informatikai Tanulmányi Verseny)
 
-    A sárkány feladványa (leírás) (Nemes Tihamér Nemzetközi Informatikai Tanulmányi Verseny, 2020. 2-3. korcsoport, 3. forduló)
+    A sárkány feladványa (leírás) 
+    
+    (Nemes Tihamér Nemzetközi Informatikai Tanulmányi Verseny, 2020. 2-3. korcsoport, 3. forduló)
+
     A kincses barlang bejárata előtt egy sárkánnyal találod szemben magad. A sárkány a következő
     találós kérdést teszi fel: "Beengedlek téged, ha tudsz mondani egy olyan négyjegyű pozitív egész
     számot, ami osztható 2-vel és 7-tel!" Te rávágod, hogy 1400. A sárkány így szól: "Hm, és olyan
@@ -65,5 +70,5 @@ sdfgfdgshdfgh
     Kimenet
     A standard kimenet pontosan három sort tartalmazzon, a három feladvány megoldását!
     Ha nincs megoldás, akkor arra a feladványra -1-et kell kiírni! Több megoldás esetén bármelyik
-    megadható.
+    megadható. input:[https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-beadand-/blob/main/input_nt1920_3ford_2kat_6fel]
 
