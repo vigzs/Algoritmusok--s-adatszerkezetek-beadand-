@@ -31,7 +31,7 @@ Eredmények: [https://github.com/vigzs/Algoritmusok--s-adatszerkezetek-beadand-/
 
 A feladat leírása: [https://www.spoj.com/problems/CODEM4/cstart=20]
 
-Eredmény: az algoritmus működik, de lassú.
+Eredmény: exponenciális futási idejű az algoritmus, ami nagyon lassú.
 
 
 ## 3. feladat: Dinamikus programozási feladat (CSES)
